@@ -3,10 +3,10 @@
       "description_header": "👋 你好",
       "description": "作为一名全栈开发人员，具有广泛的技术技能和使用各种编程语言和全栈技术的经验。 我有使用 Django 和 React 开发 SAAS Web 应用程序的经验，还使用过 Spring、Hibernate 和 Node.js。 拥有信息系统硕士学位，并修读过网络开发、数据管理和数据科学工程等相关课程。 我还担任过软件开发实习生、全栈工程师实习生、联合创始人兼商业智能经理。 我在软件开发、与跨职能团队合作以及市场营销方面的经验使我成为需要技术和商业头脑的职位的全面候选人。感谢 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "关于我",
+        "projects": "项目",
+        "skills": "技能",
+        "experience": "经历"
       }
     },
     "projects": [
