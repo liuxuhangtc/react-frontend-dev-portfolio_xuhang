@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Xuhang Liu",
+      "titles": [ "Full-Stack Developer", "Web Developer", "Dev Team lead" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/liuxuhangtc",
           "class": "fab fa-github"
         },
         {
