@@ -11,105 +11,133 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "人才简历分析",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "Resume parsing refers to the automated scanning, extraction, storage, and analysis of resumes. By identifying and organizing relevant information, such as job skills, work experience, contact information, and so forth, parsing software can save recruiters countless hours.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/resume/r1.png",
+          "images/portfolio/resume/r2.png"
         ],
-        "url": "",
+        "url": "https://hirebeat.co/features/resume-screening/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "人才智能搜索",
+        "startDate": "2021",
+        "description": "Identify top talent for your specific job opening with our unique candidate sourcing feature. Also known as “Passive sourcing,” job candidate sourcing is often the secret to success when hiring. Our human in the loop process leverages AI and uses your required skills, education, and more to find potential candidates for your open role.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/talent/t1.png",
+          "images/portfolio/talent/t2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://hirebeat.co/features/talent-sourcing/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      {
+        "title": "Stripe订阅付款系统",
+        "startDate": "2022",
+        "description": "Subscription payment system using Stripe API.",
+        "images": [
+          "images/portfolio/stripe/s1.png",
+          "images/portfolio/stripe/s2.png"
+        ],
+        "url": "https://app.hirebeat.co/employer-pricing",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "HireBeat",
+        "title": "全栈工程师",
+        "years": "07.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS Django "
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Stripe",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "AWS",
+          "Python",
+          "Jira",
+          "React.js",
+          "PostgreSql"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Moyi-Tech",
+        "title": "软件开发实习",
+        "years": "03.2020 - 06.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Quantitative",
+          "Python",
+          "Data Model"
         ]
       }
     ]
